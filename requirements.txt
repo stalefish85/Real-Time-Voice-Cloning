@@ -1,7 +1,7 @@
 tensorflow-gpu>=1.10.0,<=1.14.0
 umap-learn
 visdom
-webrtcvad
+webrtcvad-wheels
 librosa>=0.5.1
 matplotlib>=2.0.2
 numpy>=1.14.0
